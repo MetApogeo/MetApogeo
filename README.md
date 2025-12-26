@@ -129,7 +129,7 @@
 <ul>
   <li>🏗️ <b>Scaling XONIA:</b> Implementing advanced data traffic management.</li>
   <li>📖 <b>Agile Leadership:</b> Applying <b>Scrum</b> methodologies to personal and collaborative projects.</li>
-  <li>🍁 <b>Global Expansion:</b> Preparing technical and language requirements for <b>Canada / Norway</b>.</li>
+  <li>🍁 <b>Global Expansion:</b> Preparing technical and language requirements.</li>
 </ul>
 
 <hr>
@@ -147,7 +147,7 @@
   </p>
   <br />
   <p>
-    <b>Open for collaborations</b> | <b>Continuous Learner</b> | <b>Future Expat 🇨🇦 🇳🇴</b>
+    <b>Open for collaborations</b> | <b>Continuous Learner</b>
   </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=60&section=footer" width="100%"/>
 </div>
